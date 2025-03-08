@@ -1,5 +1,5 @@
 <p align="center" style="margin: 0;">
-  <img src="https://github.com/akatsuki-world/assets/blob/main/akatsuki_logo_v3.svg" width="200" style="display: block; margin: 10px auto 0;">
+  <img src="https://raw.githubusercontent.com/akatsuki-world/assets/refs/heads/main/akatsuki_logo_v3.svg" width="200" style="display: block; margin: 10px auto 0;">
 </p>
 <h1 align="center">Akatsuki Inc</h1>
 
